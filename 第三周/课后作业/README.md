@@ -1,6 +1,6 @@
 # 宣传页面
 
-![1](C:\Users\oysd\Desktop\数据库2\Database-Principle2-master\第二三周\1.png)
+![1](https://github.com/Yxy0626/DATABASE2/blob/main/%E7%AC%AC%E4%B8%89%E5%91%A8/%E8%AF%BE%E5%90%8E%E4%BD%9C%E4%B8%9A/1.png)
 
 # jqGrid练习
 
